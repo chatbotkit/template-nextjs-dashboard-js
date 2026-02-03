@@ -1,0 +1,5 @@
+
+> template-nextjs-dashboard-js@0.1.0 lint /workspaces/cbk-platform/templates/template-nextjs-dashboard-js
+> next lint
+
+[32m✔ No ESLint warnings or errors[39m
