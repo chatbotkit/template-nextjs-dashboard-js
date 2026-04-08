@@ -2,6 +2,9 @@
 
 An analytics dashboard template for monitoring ChatBotKit usage, built with Next.js, Tailwind CSS, and Recharts. Includes Google authentication via NextAuth.
 
+<img width="50%" src="https://github.com/user-attachments/assets/513d499d-fa20-49fc-913f-2a519a1cd25b" />
+
+
 ## Why ChatBotKit?
 
 Building an AI-powered dashboard typically means sourcing models, a conversation layer, background processing, storage, a tested abilities catalogue, authentication, security, monitoring, and more from separate systems. The cost adds up fast - not just in money, but in engineering time.
