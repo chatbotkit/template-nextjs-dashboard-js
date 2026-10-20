@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) to get started.
 
 | Variable                | Required | Description                                                                                               |
 | ----------------------- | -------- | --------------------------------------------------------------------------------------------------------- |
-| `CHATBOTKIT_API_SECRET` | Yes      | ChatBotKit API token from [chatbotkit.com/tokens](https://chatbotkit.com/tokens)                          |
+| `CHATBOTKIT_API_TOKEN` | Yes      | ChatBotKit API token from [chatbotkit.com/tokens](https://chatbotkit.com/tokens)                          |
 | `NEXTAUTH_SECRET`       | Yes      | Random secret for NextAuth session encryption                                                             |
 | `NEXTAUTH_URL`          | Yes      | Application URL (default: `http://localhost:3000`)                                                        |
 | `GOOGLE_CLIENT_ID`      | Yes      | Google OAuth client ID from [console.cloud.google.com](https://console.cloud.google.com/apis/credentials) |
@@ -66,7 +66,7 @@ Open [http://localhost:3000](http://localhost:3000) to get started.
 
 1. Sign up or log in at [chatbotkit.com](https://chatbotkit.com)
 2. Go to [chatbotkit.com/tokens](https://chatbotkit.com/tokens) and create an API token
-3. Copy the API token to `CHATBOTKIT_API_SECRET` in your `.env` file
+3. Copy the API token to `CHATBOTKIT_API_TOKEN` in your `.env` file
 
 No bots or other platform resources are needed. The dashboard displays usage analytics and event logs for your entire ChatBotKit account.
 
